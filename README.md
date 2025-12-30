@@ -3,7 +3,7 @@
 > **Tecnologias:** Python, Selenium, BeautifulSoup, Pandas | **Status:** Concluído
 > **Foco:** ETL, Tratamento de Erros e Extração em Larga Escala.
 
-### 💼 O Cenário
+### O Cenário
 A necessidade de monitorar preços e catálogo de produtos de concorrentes ou fornecedores exige automação. Fazer isso manualmente para milhares de SKUs é inviável.
 
 ### 💡 A Solução
